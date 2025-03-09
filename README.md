@@ -52,6 +52,6 @@ I’d love to chat! Feel free to reach out:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WrenBlossom&layout=compact&theme=pink&hide_border=true)
 
 ---
-![Cute Cat](https://media.tenor.com/0b1e3e4a1a1b4a1a9e1a1a1a1a1a1a1a/tenor.gif)
+<img src="https://media.tenor.com/0b1e3e4a1a1b4a1a9e1a1a1a1a1a1a1a/tenor.gif" alt="Cute GIF" width="200">
 
 🌸 **Thank you for visiting my profile!** 🌸
