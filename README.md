@@ -29,8 +29,7 @@ Here are some of the tools and languages I’ve worked with:
 ---
 
 ## 🌱 **Currently Learning**
-- Deepening my knowledge of **JavaScript** and **Python**.                                    <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-190.gif" alt="Cute GIF" width="500" style="float: right; margin-left: 10px;">
-
+- Deepening my knowledge of **JavaScript** and **Python**.                                   
 - Experimenting with **3D modeling** in Blender and creating avatars in VRoid Studio.
 
 ---                                                                                                
@@ -53,4 +52,5 @@ I’d love to chat! Feel free to reach out:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WrenBlossom&layout=compact&theme=pink&hide_border=true)
 
 ---
+ <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-190.gif" alt="Cute GIF" width="300" style="float: right; margin-left: 10px;">
 🌸 **Thank you for visiting my profile!** 🌸
