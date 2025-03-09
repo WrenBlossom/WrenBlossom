@@ -53,4 +53,5 @@ I’d love to chat! Feel free to reach out:
 
 ---
 <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-190.gif" alt="Cute GIF" width="300" style="float: right; margin-left: 10px;">
+<img src="https://www.icegif.com/wp-content/uploads/2024/10/cute-icegif-8.gif" alt="Cute GIF" width="300" style="float: right; margin-left: 10px;">
 🌸 **Thank you for visiting my profile!** 🌸
