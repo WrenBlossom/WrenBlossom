@@ -22,6 +22,8 @@ Here are some of the tools and languages I’ve worked with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![VRoid Studio](https://img.shields.io/badge/VRoid_Studio-FF66AA?style=for-the-badge&logo=vroid&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
 ---
@@ -50,5 +52,6 @@ I’d love to chat! Feel free to reach out:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WrenBlossom&layout=compact&theme=pink&hide_border=true)
 
 ---
+![Cute Cat](https://media.tenor.com/0b1e3e4a1a1b4a1a9e1a1a1a1a1a1a1a/tenor.gif)
 
 🌸 **Thank you for visiting my profile!** 🌸
