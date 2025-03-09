@@ -51,9 +51,9 @@ I’d love to chat! Feel free to reach out:
 ![Rumisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WrenBlossom&show_icons=true&theme=pink&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WrenBlossom&layout=compact&theme=pink&hide_border=true)
 
----
-![Cute GIF](https://www.icegif.com/wp-content/uploads/2023/05/icegif-190.gif)
-![Cute GIF](https://www.icegif.com/wp-content/uploads/2024/10/cute-icegif-8.gif)
+---<div style="text-align: center;">
+    <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-190.gif" alt="Cute GIF" width="300">
+</div>
 
 ---
 🌸 **Thank you for visiting my profile!** 🌸
