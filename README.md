@@ -1,38 +1,53 @@
-# Hi, I'm Rumisha Maharjan 👋
+# Hi, I'm Rumisha Maharjan 🌸
 
-🌸 **Aspiring Developer | Creative Enthusiast | Lifelong Learner** 🌸
+✨ **Aspiring Developer | Forever Curious** ✨
 
 ---
 
-## 🛠️ **Technologies & Tools**
-Here are some of the languages and tools I've worked with:
+## 🌸 **About Me**
+I'm a passionate learner exploring the world of coding and creativity. I love building things, solving problems, and expressing myself through technology and art.
 
+---
+
+## 🛠️ **Skills & Tools**
+Here are some of the tools and languages I’ve worked with:
+
+- **Languages**: JavaScript, HTML, PHP, Python
+- **Creative Tools**: Blender, VRoid Studio
+- **Other Tools**: Git, VS Code
+
+---
+
+## 🌱 **Currently Learning**
+- Deepening my knowledge of **JavaScript** and **Python**.
+- Experimenting with **3D modeling** in Blender and creating avatars in VRoid Studio.
+
+---
+
+## 🎨 **Creative Projects**
+I enjoy blending technology with creativity. Some of my interests include:
+- Creating **3D models** in Blender.
+- Designing **cute avatars** in VRoid Studio.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![VRoid Studio](https://img.shields.io/badge/VRoid_Studio-FF66AA?style=for-the-badge&logo=vroid&logoColor=white)
-
 ---
 
-## 🌱 **What I'm Exploring**
-- Learning more about **JavaScript** and **Python**.
-- Experimenting with **Blender** and **VRoid Studio** for 3D modeling and creativity.
+## 📫 **Let’s Connect**
+I’d love to chat! Feel free to reach out:
 
----
-
-## 🎨 **Creative Side**
-I enjoy dabbling in creative tools like:
-- **Blender** for 3D modeling.
-- **VRoid Studio** for creating cute avatars.
-
-
-## 📫 **How to Reach Me**
-Let's connect! 🌟
 - **Email**: maharjanrumishaz09@gmail.com
 - **Twitter**: https://x.com/leony1763613
 
 ---
 
-✨ **Thanks for visiting my profile!** ✨
+## 📊 **GitHub Stats**
+![Rumisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WrenBlossom&show_icons=true&theme=pink&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WrenBlossom&layout=compact&theme=pink&hide_border=true)
+
+---
+
+🌸 **Thank you for visiting my profile!** 🌸
