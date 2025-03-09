@@ -52,7 +52,7 @@ I’d love to chat! Feel free to reach out:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WrenBlossom&layout=compact&theme=pink&hide_border=true)
 
 ---<div style="text-align: center;">
-    <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-190.gif" alt="Cute GIF" width="300">
+    <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-190.gif" alt="Cute GIF" width="200">
 </div>
 
 ---
