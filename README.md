@@ -15,7 +15,7 @@ Here are some of the tools and languages I’ve worked with:
 - **Languages**: JavaScript, HTML, PHP, Python
 - **Creative Tools**: Blender, VRoid Studio
 - **Other Tools**: Git, VS Code
-- 
+ 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
